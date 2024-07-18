@@ -74,3 +74,5 @@
 - C++ is an object-oriented programming language, while C is a procedural programming language.
 - C++ supports classes and objects, while C does not.
 - C++ provides features such as inheritance, polymorphism, and encapsulation, which are not available in C.
+
+
