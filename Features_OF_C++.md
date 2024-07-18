@@ -51,5 +51,4 @@ C++ is a compiler-based language, unlike Python. That is C++ programs used to be
 - Multithreading is a specialized form of multitasking and multitasking is a feature that allows your system to execute two or more programs concurrently. In general, there are two sorts of multitasking: process-based and thread-based.
 - C++ provides support for multithreading, which allows developers to create programs that can execute multiple tasks concurrently.
 - Multithreading is useful for creating programs that can take advantage of multiple processor cores and improve performance.
-
-## Exception Handling
+- C++ provides several classes and functions for working with threads, including std::thread, std::mutex, and std::condition_variable.
