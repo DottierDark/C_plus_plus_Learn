@@ -1,10 +1,11 @@
-## RUN the following commands on your terminal to install C++ dependecies
-- **sudo apt update**
-- **sudo apt install gcc**
-- **sudo apt install g++**
-- **sudo apt install build-essential**
-- **sudo apt upgrade**
-
+## RUN the chunk of commands on your terminal to install C++ dependecies all at once
+```
+    sudo apt update && 
+    sudo apt install gcc &&
+    sudo apt install g++ &&
+    sudo apt install build-essential && 
+    sudo apt upgrade
+```
 - To check the version of the installed compiler, run the following command:
     - **g++ --version**
 
